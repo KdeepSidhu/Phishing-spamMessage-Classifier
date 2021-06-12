@@ -19,4 +19,6 @@ scipy==1.5.3
 sqlparse==0.4.1
 urllib3==1.25.11
 whois==0.9.7
+gunicorn
+django-heroku
 
